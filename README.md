@@ -24,7 +24,7 @@ The script expects a CSV file with match dates in the following format:
 |------------|------------|-----------|---------|
 | 26.09.2024 | 20:00      | Team I    | Enemy   |
 | 30.09.2024 | 20:15      | Enemy     | Team II |
-|            |            |           |         |
+| 01.12.2024 | 19:30      | Team III  | Enemy   |
 | ...        | ...        | ...       | ...     |
 
 **CSV Structure**:
